@@ -1,0 +1,14 @@
+/*=========================================================================================
+    File Name: _tailwindFixes.scss
+    Description: partial- Tailwind Fixes
+    ----------------------------------------------------------------------------------------
+    Item Name: Vuexy - Vuejs, HTML & Laravel Admin Dashboard Template
+      Author: TripCarte
+    Author URL: https://tripcarte.asia
+==========================================================================================*/
+
+
+// button fix
+button:focus {
+    outline: none;
+}
