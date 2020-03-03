@@ -1,4 +1,4 @@
-# TripCarte eCommerce VueJs with Laravel
+# TripCarte eCommerce VueJs Dashboard
 [![image](http://react7.tech/home/wp-content/uploads/2020/03/home-tripcarte.png)](https://tripcarte.asia)
 ## Project setup
 ```
